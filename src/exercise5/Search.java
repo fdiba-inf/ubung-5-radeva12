@@ -20,7 +20,7 @@ public class Search {
         int number = input.nextInt();
 
         int numberIndex = -1;
-        // Search for number in numbers
+       
 
         System.out.println("Number index: " + numberIndex);
     }
